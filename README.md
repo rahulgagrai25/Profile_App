@@ -7,7 +7,9 @@
 
 ### 2. Different Screens  
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/0d1f5c3f-3e18-4998-a8e7-030fb40d58ca" />
-  <img src="https://github.com/user-attachments/assets/d79e9ce9-dd1b-475e-9990-7fca51f2ae79" width="100%" /> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89f08936-cc01-449a-8a53-6a740404f192" width="200" style="margin: 0 10px;"/>
+  <img src="https://github.com/user-attachments/assets/0e64ae31-643a-4c69-a116-2ba5ce1adb8d" width="210" style="margin: 0 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4f376d50-0b46-417f-a053-5e606c5b6bb3" width="250" style="margin: 0 10px;"/>
 </p>
+
